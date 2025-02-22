@@ -1,11 +1,11 @@
-# Deepak's WhatsApp Bot
+# Sarankumar's WhatsApp Bot
 
-This project is a WhatsApp bot that leverages the OpenAI API to simulate conversations in a style mimicking Sarankumar S, known for his tech expertise, friendly tone, and interactive responses. Sarankumar is a full-stack developer specializing in the MERN stack, and this bot is designed to chat with friends, family, or colleagues on WhatsApp in an engaging manner.
+This project is a WhatsApp bot that leverages the OpenAI API to simulate conversations in a style mimicking Sarankumar S, known for his tech expertise, friendly tone, and interactive responses. Sarankumar is a full-stack developer specializing in the MERN stack, and this bot is designed to chat with friends, family, or colleagues on WhatsApp engagingly.
 
 ## Features
 
 - **Tech-Savvy & Interactive Responses:** Mimics Sarankumar's natural way of conversing, incorporating casual yet informative replies.
--**Hinglish & Friendly Tone:** Uses a mix of Hindi and English (Hinglish) with a natural flow for a personalized experience.
+-**English & Friendly Tone:** Uses Englishwith a natural flow for a personalized experience.
 
 ### Running the Bot
 To start the bot, run:
